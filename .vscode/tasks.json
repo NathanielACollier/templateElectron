@@ -4,7 +4,7 @@
     "args": [],
     "tasks": [
         {
-            "label": "typescript build",
+            "label": "typescript-build",
             "type": "typescript",
             "tsconfig": "tsconfig.json",
             "group": {
