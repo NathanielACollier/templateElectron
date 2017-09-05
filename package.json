@@ -1,0 +1,17 @@
+{
+  "name": "electronTemplate",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "repository": "",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
